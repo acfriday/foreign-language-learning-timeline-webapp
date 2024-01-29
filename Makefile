@@ -1,7 +1,7 @@
 .DEFAULT_GOAL := build
 
 install:
-	#commands to install
+	#installation commands
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
 format:
@@ -20,4 +20,4 @@ clean:
 	#cleanup directory
 	rm -rf __pycache__
 
-all: install format build run lint
+all: install format lint build clean
