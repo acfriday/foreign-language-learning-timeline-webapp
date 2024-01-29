@@ -1,4 +1,4 @@
-[![.github/workflows/depolyment.yml](https://github.com/acfriday/foreign-language-learning-timeline-webapp/actions/workflows/depolyment.yml/badge.svg)](https://github.com/acfriday/foreign-language-learning-timeline-webapp/actions/workflows/depolyment.yml)
+[![.github/workflows/deployment.yml](https://github.com/acfriday/foreign-language-learning-timeline-webapp/actions/workflows/deployment.yml/badge.svg)](https://github.com/acfriday/foreign-language-learning-timeline-webapp/actions/workflows/deployment.yml)
 
 Data is from https://www.state.gov/foreign-language-training/
 
